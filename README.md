@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathsaraaluthge2001" alt="sathsaraaluthge2001" /></a> </p>
 
-- 🔭 I’m currently working on [Solifex](https://github.com/ramith-kalhara/Solifex.git)
+
 
 - 🌱 I’m currently learning **SpringBoot,React.js,Node.js and php**
 
